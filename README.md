@@ -1,1 +1,1 @@
-# three-python-beginner-project
+# Project #1 - Pig - multiplayer game
