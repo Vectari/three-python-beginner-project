@@ -6,3 +6,6 @@
 3. The game ends when one of the players reaches over 50 points.
 
 
+# Project #2 - Madlibs Generator
+
+In this app user input words to create short story 😊
